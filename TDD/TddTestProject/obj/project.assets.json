@@ -5529,11 +5529,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ogail\\OneDrive\\Desktop\\Högskolan-grund programering\\C#Lektioner\\C-djupning\\TDD\\TddTestProject\\TddTestProject.csproj",
+      "projectUniqueName": "C:\\Users\\ogail\\OneDrive\\Desktop\\Högskolan-grund programering\\LabTvvå\\TDD\\TddTestProject\\TddTestProject.csproj",
       "projectName": "TddTestProject",
-      "projectPath": "C:\\Users\\ogail\\OneDrive\\Desktop\\Högskolan-grund programering\\C#Lektioner\\C-djupning\\TDD\\TddTestProject\\TddTestProject.csproj",
+      "projectPath": "C:\\Users\\ogail\\OneDrive\\Desktop\\Högskolan-grund programering\\LabTvvå\\TDD\\TddTestProject\\TddTestProject.csproj",
       "packagesPath": "C:\\Users\\ogail\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ogail\\OneDrive\\Desktop\\Högskolan-grund programering\\C#Lektioner\\C-djupning\\TDD\\TddTestProject\\obj\\",
+      "outputPath": "C:\\Users\\ogail\\OneDrive\\Desktop\\Högskolan-grund programering\\LabTvvå\\TDD\\TddTestProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ogail\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5550,8 +5550,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\ogail\\OneDrive\\Desktop\\Högskolan-grund programering\\C#Lektioner\\C-djupning\\TDD\\TDD\\TDD.csproj": {
-              "projectPath": "C:\\Users\\ogail\\OneDrive\\Desktop\\Högskolan-grund programering\\C#Lektioner\\C-djupning\\TDD\\TDD\\TDD.csproj"
+            "C:\\Users\\ogail\\OneDrive\\Desktop\\Högskolan-grund programering\\LabTvvå\\TDD\\TDD\\TDD.csproj": {
+              "projectPath": "C:\\Users\\ogail\\OneDrive\\Desktop\\Högskolan-grund programering\\LabTvvå\\TDD\\TDD\\TDD.csproj"
             }
           }
         }

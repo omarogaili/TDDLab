@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ogail\\OneDrive\\Desktop\\Högskolan-grund programering\\C#Lektioner\\C-djupning\\TDD\\TDD\\TDD.csproj",
+      "projectUniqueName": "C:\\Users\\ogail\\OneDrive\\Desktop\\Högskolan-grund programering\\LabTvvå\\TDD\\TDD\\TDD.csproj",
       "projectName": "TDD",
-      "projectPath": "C:\\Users\\ogail\\OneDrive\\Desktop\\Högskolan-grund programering\\C#Lektioner\\C-djupning\\TDD\\TDD\\TDD.csproj",
+      "projectPath": "C:\\Users\\ogail\\OneDrive\\Desktop\\Högskolan-grund programering\\LabTvvå\\TDD\\TDD\\TDD.csproj",
       "packagesPath": "C:\\Users\\ogail\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ogail\\OneDrive\\Desktop\\Högskolan-grund programering\\C#Lektioner\\C-djupning\\TDD\\TDD\\obj\\",
+      "outputPath": "C:\\Users\\ogail\\OneDrive\\Desktop\\Högskolan-grund programering\\LabTvvå\\TDD\\TDD\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ogail\\AppData\\Roaming\\NuGet\\NuGet.Config",

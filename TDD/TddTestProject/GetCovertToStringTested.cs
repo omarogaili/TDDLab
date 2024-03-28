@@ -9,7 +9,14 @@ using Xunit;
 
 namespace TddTestProject
 {
-
+    /// <summary>
+    /// 1. testet gick inte genom.
+    /// 2. började vi fixade så att metoden ska retunera en text och vårt Expected resultat var också en string och då blev den grön
+    /// 3. började skapa logiken för metoden  för att ta emot en int och omvanlda den till en string, vi fick en röd test.
+    /// 4. vi skapade en obejekt av Time som tar tre variabler som är timme,minuter,sekunder detta för att vi ska kunna styra formaten på timen
+    /// 5. vi skapade en bool variable till metoden den varaiblen ska konrollera om tiden skriven i 24timmar form eller om den skriven i 12timmar
+    /// form. och enligt det så ska vi ha retunerade värdet.  
+    /// </summary>
     public class GetCovertToStringTested
     {
         private const string Expected24HourFormat1 = "13:23:01";
@@ -32,7 +39,7 @@ namespace TddTestProject
         public void GetTheConvertMethodTested(int hours, int minutes, int seconds, bool convertbool, string expected)
         {
             Time sub = new Time(hours, minutes, seconds);
-            var result = sub.CovertToString(convertbool,hours);
+            var result = sub.CovertToString(convertbool);
             Assert.Equal(expected, result);
         }
     }

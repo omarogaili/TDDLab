@@ -3,6 +3,14 @@ using Xunit;
 
 namespace TddTestProject
 {
+    /// <summary>
+    /// 1. en röd test först.
+    /// 2. fixa en metod IsValid och där fick grjode vi en kontroll först för timmerna  om timmerna som vi förväntar oss är 
+    /// mindre än 23 eller inte. om de t.ex. -13, vi fick grön test.
+    /// 3. vi fick röd test eftersom minuterna kunde vara - och kunde vara mer än 60. 
+    /// 4. fixa en kontroll för minuterna, så att de inte är minus eller mer än 60. fick en röd test eftersom det blev inte t.ex. 13:00:00
+    /// 5. minskade minuterna till 59 så att det börjar med ett nytt klock slag efter 59, vi fick en grön test. 
+    /// </summary>
     public class TddTest
     {
         [Theory]

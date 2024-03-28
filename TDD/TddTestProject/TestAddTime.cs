@@ -26,16 +26,16 @@ namespace TddTestProject
         [InlineData(13, 0, 1, ExpectedFormat1)] 
         [InlineData(10, 0, 59, ExpectedFormat2)] 
         [InlineData(23, 59, 59, ExpectedFormat3)]
-        public void TestIncrementOperator(int h, int m, int s, string expected)
+        public void TestIncrementOperator(int hours, int minuter, int sekunder, string expected)
         {
             // Arrange
-            Time time = new Time(h, m, s);
+            Time time = new Time(hours, minuter, sekunder);
 
             // Act
             Time result = ++time;
 
             // Assert
-            Assert.Equal(expected, result.CovertToString(true, h)); 
+            Assert.Equal(expected, result.CovertToString(true)); 
         }
 
     }

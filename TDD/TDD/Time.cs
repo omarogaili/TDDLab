@@ -16,6 +16,7 @@ namespace TDD
     public class Time
     {
         private TimeOnly time;
+        private const int mittPåDagen = 12;
         public Time(int hours, int minuter, int seconds)
         {
             time = new TimeOnly(hours, minuter, seconds);
@@ -27,9 +28,9 @@ namespace TDD
         /// PM eller AM, men efter kl12 eftermiddag den ska skriva 01 och inte 13. 
         /// </summary>
         /// <param name="is24timmar"> om tiden är 24timmar</param>
-        /// <param name="h">timmar vi skickar in variablen timma till metoden  </param>
+        /// <param name="hours">timmar vi skickar in variablen timma till metoden  </param>
         /// <returns> metoden retunerar tid format i en string</returns>
-        public string CovertToString(bool is24timmar, int h)
+        public string CovertToString(bool is24timmar)
         {
             if (is24timmar)
             {
@@ -49,7 +50,7 @@ namespace TDD
         /// <returns>två värde anget är varibalen timmar större eller lika med 12 så ska den returnerar eftermiddag eller förmiddag</returns>
         public string IsAm(int h)
         {
-            if (h >= 12)
+            if (h >= mittPåDagen)
             {
                 return "Det är eftermiddag";
 

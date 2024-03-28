@@ -16,19 +16,19 @@
                 //va blir den då 13 01 01
                 // den ska vara 13 01 00
                 //Time time = new Time(hours, minutes, seconds);
-                Console.WriteLine(time.CovertToString(true,hours));
+                Console.WriteLine(time.CovertToString(true));
                 //Console.WriteLine(time2.CovertToString(true,hours));
                 //Console.WriteLine(time2.CovertToString(false,hours));
-                Console.WriteLine(time.CovertToString(false, hours));
+                Console.WriteLine(time.CovertToString(false));
                 Console.WriteLine(time.IsAm(hours));
                 //time.AddSeconds(55);
                 //Console.WriteLine(time.CovertToString(true,hours));
 
                 //time.SubtractSeconds(3);
                 time++;
-                Console.WriteLine(time.CovertToString(true, hours));
+                Console.WriteLine(time.CovertToString(true));
                 --time;
-                Console.WriteLine(time.CovertToString(true, hours));
+                Console.WriteLine(time.CovertToString(true));
                 //++time2;
                 //Console.WriteLine(time2.CovertToString(true, hours));
 

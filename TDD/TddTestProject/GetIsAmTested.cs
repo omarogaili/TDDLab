@@ -9,9 +9,11 @@ using Xunit;
 namespace TddTestProject
 {
     /// <summary>
-    /// vi tänkte att det som vi vill visa är en string som säger om det är för/eftermeddag och detta gjorde vi genom att gav det förväntade resultet
-    /// sedan fixade vi en metode som ska retunerar detta och det är IsAm() för att vi ska veta om tiden är för/eftermeddag då behöver vi kontrollera om timmen är
-    /// efter 12 på dag innan 12 lunch tid alltså då ska vi få det meddelandet metoden måste ta in timmerna 
+    /// 1. en röd test först.
+    /// 2. vi tänkter att retunerar en string antegen för eller eftermiddag.
+    /// 3. vi fick en grön test för att metoden retunerar string och det som vi förväntar oss är en string som säger "förmiddag"
+    /// 4. vi fixar en if stats som kontrollerar om klockan är 12 så ska vi retunerar förmiddag annars så ska det vara eftermiddag.
+    /// 5. Grön test
     /// </summary>
     public class GetIsAmTested
     {

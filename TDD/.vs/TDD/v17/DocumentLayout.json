@@ -1,33 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ogail\\OneDrive\\Desktop\\H\u00F6gskolan-grund programering\\C#Lektioner\\C-djupning\\TDD\\",
+  "WorkspaceRootPath": "C:\\Users\\ogail\\OneDrive\\Desktop\\H\u00F6gskolan-grund programering\\LabTvv\u00E5\\TDD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D6489D46-6501-4AF7-B10C-DFDEB4EDEAB3}|TDD\\TDD.csproj|C:\\Users\\ogail\\OneDrive\\Desktop\\H\u00F6gskolan-grund programering\\C#Lektioner\\C-djupning\\TDD\\tdd\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6489D46-6501-4AF7-B10C-DFDEB4EDEAB3}|TDD\\TDD.csproj|solutionrelative:tdd\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{580A7660-654A-48B9-B184-52F6A146298C}|TddTestProject\\TddTestProject.csproj|c:\\users\\ogail\\onedrive\\desktop\\h\u00F6gskolan-grund programering\\c#lektioner\\c-djupning\\tdd\\tddtestproject\\tddtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{580A7660-654A-48B9-B184-52F6A146298C}|TddTestProject\\TddTestProject.csproj|solutionrelative:tddtestproject\\tddtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{580A7660-654A-48B9-B184-52F6A146298C}|TddTestProject\\TddTestProject.csproj|C:\\Users\\ogail\\OneDrive\\Desktop\\H\u00F6gskolan-grund programering\\C#Lektioner\\C-djupning\\TDD\\tddtestproject\\testaddtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{580A7660-654A-48B9-B184-52F6A146298C}|TddTestProject\\TddTestProject.csproj|solutionrelative:tddtestproject\\testaddtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{580A7660-654A-48B9-B184-52F6A146298C}|TddTestProject\\TddTestProject.csproj|C:\\Users\\ogail\\OneDrive\\Desktop\\H\u00F6gskolan-grund programering\\C#Lektioner\\C-djupning\\TDD\\tddtestproject\\greaterandsmallarthan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{580A7660-654A-48B9-B184-52F6A146298C}|TddTestProject\\TddTestProject.csproj|C:\\Users\\ogail\\OneDrive\\Desktop\\H\u00F6gskolan-grund programering\\LabTvv\u00E5\\TDD\\tddtestproject\\greaterandsmallarthan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{580A7660-654A-48B9-B184-52F6A146298C}|TddTestProject\\TddTestProject.csproj|solutionrelative:tddtestproject\\greaterandsmallarthan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{580A7660-654A-48B9-B184-52F6A146298C}|TddTestProject\\TddTestProject.csproj|C:\\Users\\ogail\\OneDrive\\Desktop\\H\u00F6gskolan-grund programering\\C#Lektioner\\C-djupning\\TDD\\tddtestproject\\getcoverttostringtested.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{580A7660-654A-48B9-B184-52F6A146298C}|TddTestProject\\TddTestProject.csproj|solutionrelative:tddtestproject\\getcoverttostringtested.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{580A7660-654A-48B9-B184-52F6A146298C}|TddTestProject\\TddTestProject.csproj|C:\\Users\\ogail\\OneDrive\\Desktop\\H\u00F6gskolan-grund programering\\LabTvv\u00E5\\TDD\\tddtestproject\\testaddtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{580A7660-654A-48B9-B184-52F6A146298C}|TddTestProject\\TddTestProject.csproj|solutionrelative:tddtestproject\\testaddtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{580A7660-654A-48B9-B184-52F6A146298C}|TddTestProject\\TddTestProject.csproj|C:\\Users\\ogail\\OneDrive\\Desktop\\H\u00F6gskolan-grund programering\\C#Lektioner\\C-djupning\\TDD\\tddtestproject\\getisamtested.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{580A7660-654A-48B9-B184-52F6A146298C}|TddTestProject\\TddTestProject.csproj|C:\\Users\\ogail\\OneDrive\\Desktop\\H\u00F6gskolan-grund programering\\LabTvv\u00E5\\TDD\\tddtestproject\\getisamtested.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{580A7660-654A-48B9-B184-52F6A146298C}|TddTestProject\\TddTestProject.csproj|solutionrelative:tddtestproject\\getisamtested.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6489D46-6501-4AF7-B10C-DFDEB4EDEAB3}|TDD\\TDD.csproj|C:\\Users\\ogail\\OneDrive\\Desktop\\H\u00F6gskolan-grund programering\\C#Lektioner\\C-djupning\\TDD\\tdd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{580A7660-654A-48B9-B184-52F6A146298C}|TddTestProject\\TddTestProject.csproj|c:\\users\\ogail\\onedrive\\desktop\\h\u00F6gskolan-grund programering\\labtvv\u00E5\\tdd\\tddtestproject\\getcoverttostringtested.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{580A7660-654A-48B9-B184-52F6A146298C}|TddTestProject\\TddTestProject.csproj|solutionrelative:tddtestproject\\getcoverttostringtested.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6489D46-6501-4AF7-B10C-DFDEB4EDEAB3}|TDD\\TDD.csproj|C:\\Users\\ogail\\OneDrive\\Desktop\\H\u00F6gskolan-grund programering\\LabTvv\u00E5\\TDD\\tdd\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6489D46-6501-4AF7-B10C-DFDEB4EDEAB3}|TDD\\TDD.csproj|solutionrelative:tdd\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580A7660-654A-48B9-B184-52F6A146298C}|TddTestProject\\TddTestProject.csproj|C:\\Users\\ogail\\OneDrive\\Desktop\\H\u00F6gskolan-grund programering\\LabTvv\u00E5\\TDD\\tddtestproject\\tddtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{580A7660-654A-48B9-B184-52F6A146298C}|TddTestProject\\TddTestProject.csproj|solutionrelative:tddtestproject\\tddtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6489D46-6501-4AF7-B10C-DFDEB4EDEAB3}|TDD\\TDD.csproj|C:\\Users\\ogail\\OneDrive\\Desktop\\H\u00F6gskolan-grund programering\\LabTvv\u00E5\\TDD\\tdd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D6489D46-6501-4AF7-B10C-DFDEB4EDEAB3}|TDD\\TDD.csproj|solutionrelative:tdd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -48,91 +48,93 @@
         },
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "GreaterAndSmallarThan.cs",
-              "DocumentMoniker": "C:\\Users\\ogail\\OneDrive\\Desktop\\H\u00F6gskolan-grund programering\\C#Lektioner\\C-djupning\\TDD\\TddTestProject\\GreaterAndSmallarThan.cs",
+              "DocumentMoniker": "C:\\Users\\ogail\\OneDrive\\Desktop\\H\u00F6gskolan-grund programering\\LabTvv\u00E5\\TDD\\TddTestProject\\GreaterAndSmallarThan.cs",
               "RelativeDocumentMoniker": "TddTestProject\\GreaterAndSmallarThan.cs",
-              "ToolTip": "C:\\Users\\ogail\\OneDrive\\Desktop\\H\u00F6gskolan-grund programering\\C#Lektioner\\C-djupning\\TDD\\TddTestProject\\GreaterAndSmallarThan.cs",
+              "ToolTip": "C:\\Users\\ogail\\OneDrive\\Desktop\\H\u00F6gskolan-grund programering\\LabTvv\u00E5\\TDD\\TddTestProject\\GreaterAndSmallarThan.cs",
               "RelativeToolTip": "TddTestProject\\GreaterAndSmallarThan.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUAAAAWAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBsAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T05:30:42.688Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TestAddTime.cs",
-              "DocumentMoniker": "C:\\Users\\ogail\\OneDrive\\Desktop\\H\u00F6gskolan-grund programering\\C#Lektioner\\C-djupning\\TDD\\TddTestProject\\TestAddTime.cs",
-              "RelativeDocumentMoniker": "TddTestProject\\TestAddTime.cs",
-              "ToolTip": "C:\\Users\\ogail\\OneDrive\\Desktop\\H\u00F6gskolan-grund programering\\C#Lektioner\\C-djupning\\TDD\\TddTestProject\\TestAddTime.cs",
-              "RelativeToolTip": "TddTestProject\\TestAddTime.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAACUAAABEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T10:47:13.429Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GetIsAmTested.cs",
-              "DocumentMoniker": "C:\\Users\\ogail\\OneDrive\\Desktop\\H\u00F6gskolan-grund programering\\C#Lektioner\\C-djupning\\TDD\\TddTestProject\\GetIsAmTested.cs",
-              "RelativeDocumentMoniker": "TddTestProject\\GetIsAmTested.cs",
-              "ToolTip": "C:\\Users\\ogail\\OneDrive\\Desktop\\H\u00F6gskolan-grund programering\\C#Lektioner\\C-djupning\\TDD\\TddTestProject\\GetIsAmTested.cs",
-              "RelativeToolTip": "TddTestProject\\GetIsAmTested.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T10:25:24.76Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GetCovertToStringTested.cs",
-              "DocumentMoniker": "C:\\Users\\ogail\\OneDrive\\Desktop\\H\u00F6gskolan-grund programering\\C#Lektioner\\C-djupning\\TDD\\TddTestProject\\GetCovertToStringTested.cs",
-              "RelativeDocumentMoniker": "TddTestProject\\GetCovertToStringTested.cs",
-              "ToolTip": "C:\\Users\\ogail\\OneDrive\\Desktop\\H\u00F6gskolan-grund programering\\C#Lektioner\\C-djupning\\TDD\\TddTestProject\\GetCovertToStringTested.cs",
-              "RelativeToolTip": "TddTestProject\\GetCovertToStringTested.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAowCEAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T10:23:06.023Z"
+              "WhenOpened": "2024-03-25T05:30:42.688Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "TddTest.cs",
-              "DocumentMoniker": "C:\\Users\\ogail\\OneDrive\\Desktop\\H\u00F6gskolan-grund programering\\C#Lektioner\\C-djupning\\TDD\\TddTestProject\\TddTest.cs",
-              "RelativeDocumentMoniker": "TddTestProject\\TddTest.cs",
-              "ToolTip": "C:\\Users\\ogail\\OneDrive\\Desktop\\H\u00F6gskolan-grund programering\\C#Lektioner\\C-djupning\\TDD\\TddTestProject\\TddTest.cs",
-              "RelativeToolTip": "TddTestProject\\TddTest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAMAAAA",
+              "Title": "TestAddTime.cs",
+              "DocumentMoniker": "C:\\Users\\ogail\\OneDrive\\Desktop\\H\u00F6gskolan-grund programering\\LabTvv\u00E5\\TDD\\TddTestProject\\TestAddTime.cs",
+              "RelativeDocumentMoniker": "TddTestProject\\TestAddTime.cs",
+              "ToolTip": "C:\\Users\\ogail\\OneDrive\\Desktop\\H\u00F6gskolan-grund programering\\LabTvv\u00E5\\TDD\\TddTestProject\\TestAddTime.cs",
+              "RelativeToolTip": "TddTestProject\\TestAddTime.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAgwBAAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T08:41:02.911Z",
+              "WhenOpened": "2024-03-21T10:47:13.429Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Time.cs",
-              "DocumentMoniker": "C:\\Users\\ogail\\OneDrive\\Desktop\\H\u00F6gskolan-grund programering\\C#Lektioner\\C-djupning\\TDD\\TDD\\Time.cs",
-              "RelativeDocumentMoniker": "TDD\\Time.cs",
-              "ToolTip": "C:\\Users\\ogail\\OneDrive\\Desktop\\H\u00F6gskolan-grund programering\\C#Lektioner\\C-djupning\\TDD\\TDD\\Time.cs",
-              "RelativeToolTip": "TDD\\Time.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAJAAAA",
+              "DocumentIndex": 2,
+              "Title": "GetIsAmTested.cs",
+              "DocumentMoniker": "C:\\Users\\ogail\\OneDrive\\Desktop\\H\u00F6gskolan-grund programering\\LabTvv\u00E5\\TDD\\TddTestProject\\GetIsAmTested.cs",
+              "RelativeDocumentMoniker": "TddTestProject\\GetIsAmTested.cs",
+              "ToolTip": "C:\\Users\\ogail\\OneDrive\\Desktop\\H\u00F6gskolan-grund programering\\LabTvv\u00E5\\TDD\\TddTestProject\\GetIsAmTested.cs",
+              "RelativeToolTip": "TddTestProject\\GetIsAmTested.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAcwBUAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T08:13:52.354Z",
+              "WhenOpened": "2024-03-21T10:25:24.76Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetCovertToStringTested.cs",
+              "DocumentMoniker": "C:\\Users\\ogail\\OneDrive\\Desktop\\H\u00F6gskolan-grund programering\\LabTvv\u00E5\\TDD\\TddTestProject\\GetCovertToStringTested.cs",
+              "RelativeDocumentMoniker": "TddTestProject\\GetCovertToStringTested.cs",
+              "ToolTip": "C:\\Users\\ogail\\OneDrive\\Desktop\\H\u00F6gskolan-grund programering\\LabTvv\u00E5\\TDD\\TddTestProject\\GetCovertToStringTested.cs",
+              "RelativeToolTip": "TddTestProject\\GetCovertToStringTested.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABwAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T10:23:06.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TddTest.cs",
+              "DocumentMoniker": "C:\\Users\\ogail\\OneDrive\\Desktop\\H\u00F6gskolan-grund programering\\LabTvv\u00E5\\TDD\\TddTestProject\\TddTest.cs",
+              "RelativeDocumentMoniker": "TddTestProject\\TddTest.cs",
+              "ToolTip": "C:\\Users\\ogail\\OneDrive\\Desktop\\H\u00F6gskolan-grund programering\\LabTvv\u00E5\\TDD\\TddTestProject\\TddTest.cs",
+              "RelativeToolTip": "TddTestProject\\TddTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T08:41:02.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Time.cs",
+              "DocumentMoniker": "C:\\Users\\ogail\\OneDrive\\Desktop\\H\u00F6gskolan-grund programering\\LabTvv\u00E5\\TDD\\TDD\\Time.cs",
+              "RelativeDocumentMoniker": "TDD\\Time.cs",
+              "ToolTip": "C:\\Users\\ogail\\OneDrive\\Desktop\\H\u00F6gskolan-grund programering\\LabTvv\u00E5\\TDD\\TDD\\Time.cs",
+              "RelativeToolTip": "TDD\\Time.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwDQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T08:13:52.354Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ogail\\OneDrive\\Desktop\\H\u00F6gskolan-grund programering\\C#Lektioner\\C-djupning\\TDD\\TDD\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ogail\\OneDrive\\Desktop\\H\u00F6gskolan-grund programering\\LabTvv\u00E5\\TDD\\TDD\\Program.cs",
               "RelativeDocumentMoniker": "TDD\\Program.cs",
-              "ToolTip": "C:\\Users\\ogail\\OneDrive\\Desktop\\H\u00F6gskolan-grund programering\\C#Lektioner\\C-djupning\\TDD\\TDD\\Program.cs",
+              "ToolTip": "C:\\Users\\ogail\\OneDrive\\Desktop\\H\u00F6gskolan-grund programering\\LabTvv\u00E5\\TDD\\TDD\\Program.cs",
               "RelativeToolTip": "TDD\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAowBUAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-21T07:56:42.799Z"
             }
