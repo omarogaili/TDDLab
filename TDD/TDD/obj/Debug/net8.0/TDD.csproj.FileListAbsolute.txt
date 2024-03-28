@@ -1,0 +1,14 @@
+C:\Users\ogail\OneDrive\Desktop\Högskolan-grund programering\C#Lektioner\C-djupning\TDD\TDD\bin\Debug\net8.0\TDD.exe
+C:\Users\ogail\OneDrive\Desktop\Högskolan-grund programering\C#Lektioner\C-djupning\TDD\TDD\bin\Debug\net8.0\TDD.deps.json
+C:\Users\ogail\OneDrive\Desktop\Högskolan-grund programering\C#Lektioner\C-djupning\TDD\TDD\bin\Debug\net8.0\TDD.runtimeconfig.json
+C:\Users\ogail\OneDrive\Desktop\Högskolan-grund programering\C#Lektioner\C-djupning\TDD\TDD\bin\Debug\net8.0\TDD.dll
+C:\Users\ogail\OneDrive\Desktop\Högskolan-grund programering\C#Lektioner\C-djupning\TDD\TDD\bin\Debug\net8.0\TDD.pdb
+C:\Users\ogail\OneDrive\Desktop\Högskolan-grund programering\C#Lektioner\C-djupning\TDD\TDD\obj\Debug\net8.0\TDD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ogail\OneDrive\Desktop\Högskolan-grund programering\C#Lektioner\C-djupning\TDD\TDD\obj\Debug\net8.0\TDD.AssemblyInfoInputs.cache
+C:\Users\ogail\OneDrive\Desktop\Högskolan-grund programering\C#Lektioner\C-djupning\TDD\TDD\obj\Debug\net8.0\TDD.AssemblyInfo.cs
+C:\Users\ogail\OneDrive\Desktop\Högskolan-grund programering\C#Lektioner\C-djupning\TDD\TDD\obj\Debug\net8.0\TDD.csproj.CoreCompileInputs.cache
+C:\Users\ogail\OneDrive\Desktop\Högskolan-grund programering\C#Lektioner\C-djupning\TDD\TDD\obj\Debug\net8.0\TDD.dll
+C:\Users\ogail\OneDrive\Desktop\Högskolan-grund programering\C#Lektioner\C-djupning\TDD\TDD\obj\Debug\net8.0\refint\TDD.dll
+C:\Users\ogail\OneDrive\Desktop\Högskolan-grund programering\C#Lektioner\C-djupning\TDD\TDD\obj\Debug\net8.0\TDD.pdb
+C:\Users\ogail\OneDrive\Desktop\Högskolan-grund programering\C#Lektioner\C-djupning\TDD\TDD\obj\Debug\net8.0\TDD.genruntimeconfig.cache
+C:\Users\ogail\OneDrive\Desktop\Högskolan-grund programering\C#Lektioner\C-djupning\TDD\TDD\obj\Debug\net8.0\ref\TDD.dll
